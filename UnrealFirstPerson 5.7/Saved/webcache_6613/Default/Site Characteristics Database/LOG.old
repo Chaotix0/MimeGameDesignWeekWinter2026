@@ -1,3 +1,5 @@
-2026/03/04-08:42:39.456 79b4 Reusing MANIFEST C:\Users\framptoj\Downloads\UnrealFirstPerson\UnrealFirstPerson 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/04-08:42:39.457 79b4 Recovering log #3
-2026/03/04-08:42:39.457 79b4 Reusing old log C:\Users\framptoj\Downloads\UnrealFirstPerson\UnrealFirstPerson 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/03/04-14:14:34.238 7d04 Log #3: 5 ops saved to Table #4 OK
+2026/03/04-14:14:34.241 7d04 Archiving C:\Users\nosematt\Documents\GitHub\MimeGameDesignWeekWinter2026\UnrealFirstPerson 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/03/04-14:14:34.241 7d04 Table #4: 5 entries OK
+2026/03/04-14:14:34.245 7d04 Archiving C:\Users\nosematt\Documents\GitHub\MimeGameDesignWeekWinter2026\UnrealFirstPerson 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/04-14:14:34.252 7d04 **** Repaired leveldb C:\Users\nosematt\Documents\GitHub\MimeGameDesignWeekWinter2026\UnrealFirstPerson 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 234 bytes. Some data may have been lost. ****
