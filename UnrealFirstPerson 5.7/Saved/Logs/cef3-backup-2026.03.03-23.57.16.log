@@ -1,0 +1,11 @@
+[6644:5564:0303/120445.909:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6644:5564:0303/120445.928:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[6644:7340:0303/120445.952:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6644:5564:0303/120445.967:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17688:7520:0303/120451.159:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-49434FCAC3C175DA7798A72BC90FF4BF will be ignored
+[6644:5564:0303/121127.646:ERROR:device_event_log_impl.cc(196)] [12:11:27.444] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6644:5564:0303/130134.280:ERROR:device_event_log_impl.cc(196)] [13:01:34.270] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6644:5564:0303/143934.036:ERROR:device_event_log_impl.cc(196)] [14:39:34.035] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6644:5564:0303/161733.904:ERROR:device_event_log_impl.cc(196)] [16:17:33.903] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6644:5564:0303/175534.866:ERROR:device_event_log_impl.cc(196)] [17:55:34.865] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6644:5564:0303/185716.130:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

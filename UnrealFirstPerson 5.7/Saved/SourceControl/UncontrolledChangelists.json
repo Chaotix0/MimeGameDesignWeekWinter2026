@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Invis.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/C1/LHDGVKW2LA2N0RIOXBQYWT.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/JK/QWRSZQ43W0446GWVSDGTR4.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/YD/RUSOFAXWBAHMRUD0LSJJZ1.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/ConeActor.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/CubeActor.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/SphereActor.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/BP_ItemCube.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/BP_ItemSphere.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/BP_ItemCone.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/Blueprints/BP_ItemCylinder.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/LevelPrototyping/Meshes/SM_Sphere.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/BP_ItemSelectionWidget.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/FirstPerson/Blueprints/GlobalVariable.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/circle.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/cube.uasset",
+				"C:/Users/framptoj/Downloads/UnrealFirstPerson/UnrealFirstPerson 5.7/Content/Object/cylinder.uasset"
+			]
+		}
+	]
+}
